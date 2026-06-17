@@ -20,6 +20,9 @@
 ### Links
 
 <p>
+  <a href="https://youchangblog.cn">
+    <img src="https://img.shields.io/badge/BLOG-youchangblog.cn-C58940?style=flat-square&logo=readthedocs&logoColor=white" alt="blog"/>
+  </a>
   <a href="https://github.com/ChangyYou">
     <img src="https://img.shields.io/badge/GitHub-ChangyYou-181717?style=flat-square&logo=github&logoColor=white" alt="github"/>
   </a>
@@ -27,11 +30,11 @@
     <img src="https://img.shields.io/badge/Gmail-youchangcyber%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="email"/>
   </a>
   <a href="https://github.com/ChangyYou?tab=repositories">
-    <img src="https://img.shields.io/badge/Projects-open--source-C58940?style=flat-square&logo=readthedocs&logoColor=white" alt="projects"/>
+    <img src="https://img.shields.io/badge/Projects-open--source-6FA7A0?style=flat-square&logo=readthedocs&logoColor=white" alt="projects"/>
   </a>
 </p>
 
-- **Current notes**: [GitHub repositories](https://github.com/ChangyYou?tab=repositories)
+- **Current notes**: [youchangblog.cn](https://youchangblog.cn)
 - **Personal profile**: [github.com/ChangyYou](https://github.com/ChangyYou)
 
 Some directions I keep exploring: AI agents, full-stack products, developer tools, and automated workflows.
