@@ -20,8 +20,8 @@
 ### Links
 
 <p>
-  <a href="https://youchangblog.cn">
-    <img src="https://img.shields.io/badge/BLOG-youchangblog.cn-C58940?style=flat-square&logo=readthedocs&logoColor=white" alt="blog"/>
+  <a href="https://blog.dexopus.cyou">
+    <img src="https://img.shields.io/badge/BLOG-blog.dexopus.cyou-C58940?style=flat-square&logo=readthedocs&logoColor=white" alt="blog"/>
   </a>
   <a href="https://github.com/ChangyYou">
     <img src="https://img.shields.io/badge/GitHub-ChangyYou-181717?style=flat-square&logo=github&logoColor=white" alt="github"/>
