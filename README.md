@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=C98A4A&center=true&vCenter=true&width=780&pause=100000&lines=Hi,+I'm+Dex.+AI+Full-Stack+Developer." alt="Hi"/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=17&color=C98A4A&center=true&vCenter=true&width=780&pause=100000&lines=CS+student+%7C+Recreational+coder+%7C+Open-source+enthusiast." alt="Current Role"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=C98A4A&center=true&vCenter=true&width=780&pause=100000&lines=Hi,+I'm+Dex.+Independent+Developer+%7C+AI+%C3%97+Game." alt="Hi, I'm Dex. Independent Developer | AI × Game."/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=17&color=C98A4A&center=true&vCenter=true&width=780&pause=100000&lines=Exploring+AI-native+games+%7C+LLM+Agents+%7C+Generative+worlds." alt="Exploring AI-native games | LLM Agents | Generative worlds."/>
   <p>
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24px" height="24px" alt="wave"/>
-    <strong>I am open to internship opportunities in any interesting direction.</strong>
+    <strong>I’m open to internship opportunities and collaborations in AI and game development.</strong>
   </p>
   <p>
     <code>Born 2001-04-29</code>
@@ -13,8 +13,9 @@
 
 - I’m grateful to live in an open-source world.
 - I’m happy to contribute to fun projects and useful ideas.
-- I’m primarily interested in AI R&amp;D / Full-Stack AI development, while remaining open to other directions.
-- I love AI, concise design, automation, and practical tools.
+- I’m focused on **AI × Game**, exploring how AI can shape new kinds of games.
+- My goal is to build **AI-native games**: characters with memory and growth, agents that understand and act in game worlds, and stories, quests, and worlds that keep evolving.
+- I’ve mainly explored **LLM Agents, Memory, and Planning**. Now I’m bringing these ideas into game development.
 - If you’re interested in what I’m building, welcome to join me.
 
 ### Links
@@ -37,7 +38,7 @@
 - **Current notes**: [youchangblog.cn](https://youchangblog.cn)
 - **Personal profile**: [github.com/ChangyYou](https://github.com/ChangyYou)
 
-Some directions I keep exploring: AI agents, full-stack products, developer tools, and automated workflows.
+Some directions I keep exploring: AI agents in games, character memory and planning, generative storytelling, AIGC, and evolving game worlds.
 
 > "The mission of learning is to gain an understanding of various designs."
 >
