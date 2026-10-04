@@ -34,7 +34,7 @@
   </a>
 </p>
 
-- **Current notes**: [youchangblog.cn](https://youchangblog.cn)
+- **Current notes**: [blog.dexopus.cyou](https://blog.dexopus.cyou)
 - **Personal profile**: [github.com/ChangyYou](https://github.com/ChangyYou)
 
 Some directions I keep exploring: AI agents in games, character memory and planning, generative storytelling, AIGC, and evolving game worlds.
