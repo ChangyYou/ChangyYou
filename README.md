@@ -15,7 +15,6 @@
 - I’m happy to contribute to fun projects and useful ideas.
 - I’m focused on **AI × Game**, exploring how AI can shape new kinds of games.
 - My goal is to build **AI-native games**: characters with memory and growth, agents that understand and act in game worlds, and stories, quests, and worlds that keep evolving.
-- I’ve mainly explored **LLM Agents, Memory, and Planning**. Now I’m bringing these ideas into game development.
 - If you’re interested in what I’m building, welcome to join me.
 
 ### Links
